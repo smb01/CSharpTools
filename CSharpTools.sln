@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHash", "FileHash\FileHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindError", "FindError\FindError.csproj", "{13839BE0-04CC-40A2-92E2-171934AB0459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCut", "FileCut\FileCut.csproj", "{7F568F45-D216-49D7-8F91-40C1529AA284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{13839BE0-04CC-40A2-92E2-171934AB0459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13839BE0-04CC-40A2-92E2-171934AB0459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13839BE0-04CC-40A2-92E2-171934AB0459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F568F45-D216-49D7-8F91-40C1529AA284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F568F45-D216-49D7-8F91-40C1529AA284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F568F45-D216-49D7-8F91-40C1529AA284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F568F45-D216-49D7-8F91-40C1529AA284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
