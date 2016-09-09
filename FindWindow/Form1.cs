@@ -24,12 +24,12 @@ namespace FindWindow
         IntPtr hpen = IntPtr.Zero;
         IntPtr oldPen = IntPtr.Zero;
 
-        private void FindForm_FormClosing(object sender, FormClosingEventArgs e)
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             Win32.ReleaseDC(Win32.GetDesktopWindow(), hdc);
         }
 
-        private void FindForm_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
             pictureBox1.Image = (Properties.Resources._1).ToBitmap();
             hdc = Win32.GetWindowDC(Win32.GetDesktopWindow());
