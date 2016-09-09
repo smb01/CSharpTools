@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCut", "FileCut\FileCut.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifCut", "GifCut\GifCut.csproj", "{2FBC38E7-16D9-4D3B-92B9-CBA797A91AFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picpick", "Picpick\Picpick.csproj", "{F3A17936-7A8D-4098-BBB7-FA08BC45F50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2FBC38E7-16D9-4D3B-92B9-CBA797A91AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FBC38E7-16D9-4D3B-92B9-CBA797A91AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FBC38E7-16D9-4D3B-92B9-CBA797A91AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A17936-7A8D-4098-BBB7-FA08BC45F50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A17936-7A8D-4098-BBB7-FA08BC45F50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A17936-7A8D-4098-BBB7-FA08BC45F50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A17936-7A8D-4098-BBB7-FA08BC45F50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
