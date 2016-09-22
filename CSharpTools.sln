@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellExt", "ShellExt\ShellE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiShare", "WifiShare\WifiShare.csproj", "{6DBEFB15-C625-4C0D-96EA-515F40258C5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy++", "Spy++\Spy++.csproj", "{3950CB6F-068D-4435-BB16-B5AD8D3A3905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{6DBEFB15-C625-4C0D-96EA-515F40258C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DBEFB15-C625-4C0D-96EA-515F40258C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DBEFB15-C625-4C0D-96EA-515F40258C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3950CB6F-068D-4435-BB16-B5AD8D3A3905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3950CB6F-068D-4435-BB16-B5AD8D3A3905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3950CB6F-068D-4435-BB16-B5AD8D3A3905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3950CB6F-068D-4435-BB16-B5AD8D3A3905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
